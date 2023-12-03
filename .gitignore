@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/containers/PokemonDetails.jsxgit add README.md
+/src/containers/PokemonDetails.jsx
 
 # testing
 /coverage
