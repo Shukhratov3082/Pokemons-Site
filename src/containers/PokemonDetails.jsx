@@ -86,10 +86,10 @@ const Wrapper = styled.div`
 const Modal = styled.div`
   width: 300px;
   height: 400px;
-  border-radius: 10px;
   padding: 20px;
-  border: 2px solid #9a00ff;
-  background-color: white;
+  border-radius: 33px;
+  background: #ede7ee;
+  box-shadow: inset 6px 6px 11px #e6dbe9, inset -6px -6px 11px #a29e9e;
   text-align: center;
   position: absolute;
   top: 50%;

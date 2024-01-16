@@ -15,7 +15,9 @@ const StyledLink = styled(Link)`
   width: 100%;
   padding: 20px;
   border-radius: 12px;
-  border: 2px solid #c300ff;
+  border-radius: 33px;
+  background: #ede7ee;
+  box-shadow: inset 6px 6px 11px #1e8bf2, inset -6px -6px 11px #72357a;
   cursor: pointer;
   background: linear-gradient(155deg, rgb(0 82 251) 8%, rgb(214 56 202) 79%);
   transition: 0.3s ease;
