@@ -50,7 +50,7 @@ const PokemonDetails = () => {
           }}
           className="modal__navigator left"
         >
-          -
+          {"<"}
         </span>
         <span
           onClick={() => {
@@ -58,7 +58,7 @@ const PokemonDetails = () => {
           }}
           className="modal__navigator right"
         >
-          +
+          {">"}
         </span>
       </Modal>
     </Wrapper>
